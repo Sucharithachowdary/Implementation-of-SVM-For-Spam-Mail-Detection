@@ -67,7 +67,6 @@ accuracy
 ```
 
 ## Output:
-![output](https://github.com/Sucharithachowdary/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/8.1.jpeg?raw=true)
 ![output](https://github.com/Sucharithachowdary/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/8.2.jpeg?raw=true)
 ![output](https://github.com/Sucharithachowdary/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/8.3.jpeg?raw=true)
 ![output](https://github.com/Sucharithachowdary/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/8.4.jpeg?raw=true)
